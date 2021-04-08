@@ -1,0 +1,12 @@
+.App {
+  padding: 40px 40px 80px 40px;
+  background-color: #ffebcd;
+}
+
+.todo {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  font-size: 22px;
+  justify-content: space-between;
+}
